@@ -1,0 +1,10 @@
+1. ChatGPT (OpenAI) https://chatgpt.com/
+1. Claude (Anthropic) https://claude.ai/
+1. Deepseek (High-Flyer) https://chat.deepseek.com/
+1. Gemini (Google) https://gemini.google.com/
+1. Grok (xAI) https://grok.com/
+1. Kimi (Moonshot AI) https://www.kimi.com/
+1. Mistral https://chat.mistral.ai/
+1. Qwen (Alibaba) https://qwen.ai/
+
+Hosted https://use.ai/
