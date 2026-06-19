@@ -1,3 +1,5 @@
+Bots
+
 1. ChatGPT (OpenAI) https://chatgpt.com/
 1. Gemini (Google) https://gemini.google.com/
 1. Mistral https://chat.mistral.ai/
