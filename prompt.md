@@ -47,4 +47,4 @@ Assess your ability to answer the questions.
 
 Summary:
 
-Summarize your response to the questions.
+Conclude by summarizing your response in one paragraph.
