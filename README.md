@@ -27,7 +27,7 @@ Friday, June 19, 2026
 > - Ethical restraint
 > - Long-term thinking
 > 
-> The future is neither predetermined catastrophe nor guaranteed progress. Human outcomes depend heavily on governance quality, incentive structures, and collective decision-making.
+> The future is neither predetermined catastrophe nor guaranteed progress. Human outcomes depend heavily on governance quality, incentive structures, and **collective decision-making**.
 
 ### [Claude](2026-06-19/Claude-use.ai-2026-06-19.md)
 
@@ -43,7 +43,7 @@ Friday, June 19, 2026
 >
 > - Interconnectedness: Climate, inequality, and geopolitics are intertwined; solutions must be holistic.
 > - Power Asymmetry: A small group of actors (states, corporations, elites) drive most harm and help.
-> - Agency: Individuals and collective action (e.g., social movements, voting) can shift trajectories.
+> - Agency: Individuals and **collective action** (e.g., social movements, voting) can shift trajectories.
 > - Uncertainty: Existential risks (AI, nuclear, climate) require urgent, global **cooperation**.
 > 
 > Final Thought
