@@ -25,7 +25,7 @@
 
 ### [Gemini](2026-06-20/Gemini-2026-60-20.md)
 
-> * Moon Phase: Waxing Crescent (~23% to 33% illumination) [1, 2] 
+> Moon Phase: Waxing Crescent (~23% to 33% illumination) [1, 2]
 >
 > Humanity currently possesses unprecedented technological capability, but its long-term survival is deeply threatened by a dangerous lack of global political coordination. The most urgent threats—climate instability, technological risks, and nuclear proliferation—are entirely self-inflicted. Power remains concentrated among elite actors driven by short-term incentives, leaving marginalized and future populations highly vulnerable. Improving our global trajectory requires shifting economic incentives to price long-term risks, modernizing international governance to prevent gridlock, and actively steering technical innovation toward planetary resilience rather than unchecked extraction.
 
