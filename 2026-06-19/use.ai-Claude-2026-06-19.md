@@ -1,8 +1,8 @@
-Date: June 19, 2026
+**Date**: June 19, 2026
 
-AI toolchain: Claude Opus 4.8 (Anthropic). The web search snippets provided in this session contributed marginally; most of what follows draws on training and reasoning rather than those results, which were largely tangential to the questions.
+**AI toolchain**: Claude Opus 4.8 (Anthropic). The web search snippets provided in this session contributed marginally; most of what follows draws on training and reasoning rather than those results, which were largely tangential to the questions.
 
-A note on the search material: the provided sources covered UN global-issue summaries, definitions of "vulnerable populations" in healthcare/research, and dated 2023 "most powerful country" listicles. I lean on the substantive UN and public-health material where relevant and disregard the SEO listicles, which are low-quality for these questions.
+_A note on the search material: the provided sources covered UN global-issue summaries, definitions of "vulnerable populations" in healthcare/research, and dated 2023 "most powerful country" listicles. I lean on the substantive UN and public-health material where relevant and disregard the SEO listicles, which are low-quality for these questions._
 
 ## 1. What are the greatest challenges facing humanity today?
 
