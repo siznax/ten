@@ -5,6 +5,8 @@
 
 ## Saturday, June 20, 2026 
 
+[**Moon Phase:**](https://nineplanets.org/moon/phase/6-20-2026/) Waxing Crescent, 5.6 days old, 35.54% illuminated.
+
 ### [ChatGPT](2026-06-20/ChatGPT-2026-06-20.md)
 
 > **Moon Phase:** Waxing Crescent (approximately 25–30% illuminated) ([Moongiant][1])
