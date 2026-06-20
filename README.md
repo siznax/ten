@@ -49,6 +49,12 @@
 >
 > In 2026, humanity faces existential threats—climate change, AI misalignment, nuclear war, and inequality—but has unprecedented tools like renewable energy, AI for good, and space exploration to address them. Power is concentrated among a few nations (US, China, Russia) and corporations, while the most vulnerable—refugees, the poor, and marginalized groups—bear the greatest burdens. The most harmful actions include fossil fuel combustion, warfare, and disinformation, whereas renewable energy deployment, education, and international cooperation offer the greatest benefits. Russia, China, and North Korea cause the most harm, while the UN, NGOs, and Nordic countries contribute most positively. To secure a prosperous future, humanity must avoid catastrophe in the next 50 years through climate action, AI governance, and nuclear stability; build a better world by 2100 with clean energy and global cooperation; and expand beyond Earth to ensure long-term resilience. Individuals can make a difference through voting, advocacy, and career choices, but systemic change is essential. With wise collective action, humanity has a 60–70% chance of thriving for millennia; without it, collapse or extinction becomes increasingly likely.
 
+### [Perplexity](2026-06-20/Perplexity-2026-06-20.md)
+
+> Moon Phase: First Quarter, with about 42% illumination on June 20, 2026 [phasesmoon](https://phasesmoon.com/moonday20June2026.html)
+>
+> Humanity’s biggest problems are systemic: war, nuclear escalation, climate change, inequality, and institutional breakdown. The most useful actors reduce suffering and strengthen trust, while the most harmful ones exploit power, spread violence, and increase the risk of catastrophe. The evidence suggests real progress in medicine and some governance areas, but also a disturbing rise in security risks, making peacebuilding, public health, and responsible technology governance the most important priorities. [cancerprogressreport.aacr](https://cancerprogressreport.aacr.org/progress/cpr25-contents/cpr25-cancer-in-2025/)
+
 ### [Qwen](2026-06-20/Qwen-2026-06-20.md)
 
 > Moon Phase: Waxing Crescent (approximately 8% illuminated)

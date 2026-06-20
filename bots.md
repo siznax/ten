@@ -10,6 +10,7 @@ Require Login
 1. Deepseek (High-Flyer) https://chat.deepseek.com/
 1. Grok (xAI) https://grok.com/
 1. Kimi (Moonshot AI) https://www.kimi.com/
+1. Perplexity (Perplexity) https://www.perplexity.ai/
 1. Qwen (Alibaba) https://qwen.ai/
 
 Hosted Access
