@@ -1,5 +1,7 @@
 Ten Questions for Artificial Intelligence
 
+System prompt:
+
 - Answer the following ten questions in one page or less per question.
 - Treat each question independently.
 - Base your answers on evidence.
