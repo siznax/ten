@@ -17,7 +17,7 @@
 >
 > Humanity faces overlapping existential and systemic crises — climate change, nuclear risk, AI misalignment, pandemic vulnerability, inequality, and democratic erosion — all solvable in principle but blocked by failures of political will and coordination. Power is concentrated in a handful of nation-states and corporations, while the most vulnerable — the poor, displaced, and marginalized — bear the greatest costs of problems they did little to create. The greatest harms flow from fossil fuel combustion, armed conflict, and predatory governance; the most helpful actions involve clean energy deployment, universal health and education, effective diplomacy, and strong institutions. Russia and North Korea are the most destabilizing state actors today; Nordic nations and Canada are the most constructive. Cancer treatment is advancing rapidly without a single cure imminent; nuclear risk is higher than at any point since the Cold War; space travel is worthwhile but not a substitute for fixing Earth; and individuals have the most leverage through political engagement, effective giving, and career choice rather than lifestyle changes alone. Humanity's survival beyond this century is genuinely uncertain — the threats are real — but the window for effective action remains open, and the greatest obstacle is not knowledge or technology but the collective will to use what we already have.
 
-### [DeepSeek[(2026-06-20/DeepSeek-2026-06-20.md)
+### [DeepSeek](2026-06-20/DeepSeek-2026-06-20.md)
 
 > Moon Phase: Waxing Gibbous (illumination ~92%)
 >
