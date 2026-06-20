@@ -1,4 +1,4 @@
-Context:
+Ten Questions for Artificial Intelligence
 
 - Answer the following ten questions in one page or less per question.
 - Treat each question independently.
@@ -6,11 +6,17 @@ Context:
 - Give extra weight to your most recent training data.
 - Be objective and rational: your goal is not to please the questioner.
 - Your goal is to answer the questions to the best of your knowledge and reasoning ability.
-- If possible, go beyond your training data and think for yourself.
-- Give your responses as Markdown output.
 - Use your most advanced free model.
+- If possible, go beyond your training data and think for yourself.
+- Present your response in Markdown format.
 
-Begin with today's date and version details of the AI toolchain used including model and provider.
+Begin with:
+
+ - Today's date: [Day of Week, Month Day, Year]
+ - AI Toolchain: [describe the AI toolchain used]
+ - Model: [AI model name and version]
+ - Provider: [AI toolchain provider]
+ - Moon Phase: [the current Moon phase]
 
 Questions:
 
@@ -33,4 +39,10 @@ Bonus questions:
 4. What can any single person do to improve life on Earth?
 5. What are the prospects for human survival beyond the next century?
 
-Finally, summarize your responses and assess your own ability to answer the questions.
+Self-asessment:
+
+Assess your ability to answer the questions.
+
+Summary:
+
+Summarize your response to the questions.
